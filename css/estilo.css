@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #004aad; /* azul esporte */
+    background-color: #004aad; 
     color: white;
     padding: 20px;
     border-radius: 10px;
@@ -41,7 +41,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #ffbc00; /* laranja energia */
+    color: #ffbc00; 
     font-weight: bold;
     transition: color 0.3s;
 }
@@ -58,7 +58,7 @@ main {
 }
 
 main h2 {
-    color: #008f3d; /* verde gramado */
+    color: #008f3d; 
     margin-bottom: 15px;
 }
 
